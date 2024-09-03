@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 About My Skills- <br>    Languages: JavaScript, TypeScript<br>    Frameworks/Libraries: React, React Router, Express.js<br>    Styling: Tailwind CSS<br>    Tools & Workflow: Git, GitHub, npm/yarn, VS Code<br><br>🔭 I’m currently working on<br>    Building dynamic and responsive web applications with React and TypeScript.<br>    Experimenting with advanced CSS techniques using Tailwind CSS.<br><br>👯 I’m looking to collaborate on<br>    Open-source projects that involve front-end development.<br>    Exciting web applications that can make a real-world impact.<br><br>🤝 I’m looking for help with<br>    Optimizing complex React applications for better performance.<br>    Learning more about server-side rendering and full-stack development.<br><br>🌱 I’m currently learning- Next.js and Backend.<br><br>💬 Ask me about<br>    Building scalable React applications.<br>    Tailwind CSS tricks and tips.<br>    TypeScript for better type safety in JavaScript projects.<br>
-
+👋 About My Skills- <br>    Languages: JavaScript, TypeScript<br>    Frameworks/Libraries: React, React Router, Express.js<br>    Styling: Tailwind CSS<br>    Tools & Workflow: Git, GitHub, npm/yarn, VS Code<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajay-barman-0b37011a7/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ItsBarmanji) 
