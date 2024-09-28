@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔥 My Skills- <br>    Languages: JavaScript, TypeScript, Python<br>    Frameworks/Libraries: React, React Router, Redux, Express.js, Next.js<br>    Styling: Tailwind, Shadcn, Aceternity<br>    Tools & Workflow: VIM, TMUX, I3WM<br>
 
 ## 🌐 Socials:
