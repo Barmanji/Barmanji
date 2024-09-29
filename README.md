@@ -5,10 +5,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-barman-0b37011a7/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ItsBarmanji) [![Hashnode](https://img.shields.io/badge/Hashnode-%230A1E4B.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@Barmanji)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Barmanji&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Barmanji&icon=1&color=0)](https://visitcount.itsvg.in)
 
