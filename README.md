@@ -9,10 +9,8 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br>
 
-# 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-barman-0b37011a7/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ItsBarmanji)
-[![Hashnode](https://img.shields.io/badge/Hashnode-%230A1E4B.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@Barmanji)
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-barman-0b37011a7/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ItsBarmanji) [![Hashnode](https://img.shields.io/badge/Hashnode-%230A1E4B.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@Barmanji)
 
 </div>
 
