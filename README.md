@@ -19,8 +19,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Barmanji/Barmanji/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/Barmanji/Barmanji/blob/output/ocean.gif" />
 </picture>
-
-# Support
 <p><a href="https://www.buymeacoffee.com/barmanji"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="barmanji" /></a></p><br><br>
 </div>
 
