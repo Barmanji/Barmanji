@@ -13,8 +13,6 @@
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-barman-0b37011a7/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ItsBarmanji) [![Hashnode](https://img.shields.io/badge/Hashnode-%230A1E4B.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@Barmanji)
 
-<h1 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/barmanji"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="barmanji" /></a></p><br><br>
 # 🐍 Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Barmanji/Barmanji/blob/output/github-snake-dark.svg" />
@@ -22,6 +20,8 @@
   <img alt="github-snake" src="https://github.com/Barmanji/Barmanji/blob/output/ocean.gif" />
 </picture>
 
+# Support
+<p><a href="https://www.buymeacoffee.com/barmanji"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="barmanji" /></a></p><br><br>
 </div>
 
 
