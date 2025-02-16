@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=200&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Nameste+I'm+Ajay+Barman%2C;+A+software+craftsman+based+in+India+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=CaskaydiaCove&weight=500&size=50&duration=3000&pause=200&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Nameste+I'm+Ajay+Barman%2C;+A+software+craftsman+based+in+India+%E2%9C%A9" width="70%" />
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40"/>
 
